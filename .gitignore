@@ -1,0 +1,6 @@
+__pycache__
+run*.sh
+run*.sbatch
+.ftpconfig
+.DS_Store
+.ipynb_checkpoints/
