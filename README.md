@@ -1,6 +1,6 @@
 ## Independent Eigencoordinate Selection (IES) algorithm
 
-Repository for [Selecting the independent coordinates of manifolds with large aspect ratios](https://papers.nips.cc/paper/8393-selecting-the-independent-coordinates-of-manifolds-with-large-aspect-ratios) ([arXiv long paper](https://arxiv.org/abs/1907.01651)) at NeurIPS'19.
+Repository for *Selecting the independent coordinates of manifolds with large aspect ratios* at NeurIPS'19.
 
 ## Dependency
 - python 3.6 (fully tested)
@@ -12,3 +12,9 @@ Repository for [Selecting the independent coordinates of manifolds with large as
 ```
 $ python synthetic_dataset.py
 ```
+
+## Links
+- [NeurIPS paper](https://papers.nips.cc/paper/8393-selecting-the-independent-coordinates-of-manifolds-with-large-aspect-ratios)
+- [arXiv version](https://arxiv.org/abs/1907.01651)
+- [Code](https://github.com/yuchaz/independent_coordinate_search)
+- [Extra materials](https://yuchaz.github.io/publication/2019-indep-coord-search)
