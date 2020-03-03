@@ -16,5 +16,6 @@ $ python synthetic_dataset.py
 ## Links
 - [NeurIPS paper](https://papers.nips.cc/paper/8393-selecting-the-independent-coordinates-of-manifolds-with-large-aspect-ratios)
 - [arXiv version](https://arxiv.org/abs/1907.01651)
-- [Code](https://github.com/yuchaz/independent_coordinate_search)
-- [Extra materials](https://yuchaz.github.io/publication/2019-indep-coord-search)
+- [Project page](https://yuchaz.github.io/publication/2019-indep-coord-search)
+- [Poster](https://yuchaz.github.io/files/2019-indep-coord-search-poster.pdf)
+- [Slides](https://yuchaz.github.io/files/2019-indep-coord-search-slides.pdf)
